@@ -6,5 +6,6 @@ private String brand;
 private String model;
 private String yearOfManufaturing;
 private String registrationNo;
+private Booking booking;
 
 }

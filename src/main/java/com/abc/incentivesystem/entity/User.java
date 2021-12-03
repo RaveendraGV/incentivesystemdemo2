@@ -1,9 +1,9 @@
 package com.abc.incentivesystem.entity;
 
 public class User {
-private String dealerId;
-private String dealerPassword;
-private String adminId;
-private String adminPassword;
+private String id;
+private String password;
+private String type;
+private String userName;
 
 }

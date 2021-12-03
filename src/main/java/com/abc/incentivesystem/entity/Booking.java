@@ -7,5 +7,5 @@ private int bookingId;
 private LocalDate bookingDate;
 private Customer customer;
 private Car car;
-
+private Incentive incentive;
 }
